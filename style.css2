@@ -1,0 +1,56 @@
+ul {
+    list-style-type:none;
+    margin: 0px 0px 10px 0px;
+    padding: 10px;
+    background-color: green;
+}
+body {
+    background-color: lime;
+}
+li {
+    display: inline;
+}
+.title {
+    color: lime;
+    margin-left: 4px;
+    font-size: 50px;
+}
+h2, h3 {
+    color: lime;
+    margin-left: 4px;
+    text-decoration: underline;
+}
+#sechead {
+    color: lime;
+    margin-left: 4px;
+    font-size: 40px;
+}
+.fir, .sec, .thir, .four, .five, .six, .sev{
+    width: 50%;
+    font-size: 25px;
+    margin-left: 8px;
+}
+p {
+    color: white;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+    text-decoration: underline;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+    text-decoration: underline;}
+
+#Home, #About, #News, #Contact {
+    margin: 30px;
+    color: black;
+    font-size: 25px;
+}
+.table1, .table2 {
+    flex-wrap: wrap; 
+    float: right; 
+    width: 10%;
+    border: 5px solid lime;
+}
