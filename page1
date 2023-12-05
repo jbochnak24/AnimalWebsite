@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Animal Blog</title>
+        <link rel="stylesheet" href="styles.css"/>
+        <script src="script.js"></script>
+    </head>
+    <body>
+       
+        <h1 class="title">Frog Website</h1>
+        <ul>
+        <li id="Home"><a href="index.html">Home</a></li>
+            <li id="More"><a href="#more">More</a></li>
+           <li id="Newest"><a href="#newest">Newest</a></li>
+           <li id="connections"><a href="#connect">Connections</a></li>
+        </ul> 
+            <table class="table1" border="1">
+            <tr>
+                <td><img src="frog1.png" alt="frog" width="250"></td>
+                <td><img src="frog2.png" alt="frog" width="250"></td>
+            </tr>
+            <tr>
+                <td><img src="frog3.png" alt="frog" width="250" height="180"></td>
+                <td><img src="frog4.png" alt="frog" width="250" height="180"></td>
+            </tr>
+            </table>
+        <div class="intro">
+            <h3 id="sub1">What are frogs?</h3>
+            <p>Frogs are fascinating amphibians that can live both in water and on land. They have smooth, moist skin and come in various colors and sizes. Frogs are known for their big, bulging eyes and powerful hind legs, which they use for jumping and swimming. They start their lives as tiny tadpoles in water, eventually transforming into adult frogs through a process called metamorphosis. Frogs are skilled hunters and mostly eat insects, using their long, sticky tongues to catch prey.. </p>
+        </div>
+        <div class="para2">
+        <h3>Where to find frogs?</h3>
+        <P>Frogs can be found in various places around the world, especially near water. You might spot them by ponds, lakes, rivers, or even in your backyard if there's a small pool or a damp area. They like places with water because that's where they lay their eggs, and their tadpoles grow into frogs. Sometimes, you can hear their croaky sounds at night when they are looking for mates. So, if you want to find frogs, it's a good idea to explore places with water, like ponds or wetlands, and listen for their distinctive calls..  <br>  </P>
+        </div>
+              <table class="table2" border="1" >
+            <tr>
+                <td><img src="frog5.png" alt="frog" width="300"></td>
+                <td><img src="frog6.png" alt="frog" width="300"></td>
+            </tr>
+            <tr>
+                <td><img src="frog7.png" alt="frog" width="300" height="180"></td>
+                <td><img src="frog8.png" alt="frog" width="300" height="180"></td>
+            </tr>
+            </table>
+        <div class="para3">
+        <h3>Fun Facts</h3>
+            <P>Frogs are cool animals with lots of interesting stuff about them! They can live in water and on land, and their skin helps them breathe. Frogs are super good at jumping because of their strong back legs. When they're babies, they start as tadpoles and then turn into adult frogs. Frogs make different sounds to talk to each other, and they have big eyes that can see almost all around. They eat bugsby using their long, sticky tongues. Some frogs can even change colors to match where they are. They live all over the world, in places like rainforests and deserts, and they're important for keeping nature balanced. </P>
+            
+        </div>
+          
+        <div class="para4">
+        <h3>How many types of frogs are there?</h3>
+            <P>Frogs come in a bunch of different types all over the world. They vary in size, from really small to pretty big, and their colors can be anything from green to brown, or even bright red and blue. Different frogs live in different places like ponds, jungles, or deserts. Some frogs like cold areas, and others prefer warmer spots.. </P>
+        </div>
+        <br>
+      <div class="final">
+        <p>Read more on this <a href="page2.html" id="page">page</a> to know how you can have your own pet frog.</p>
+          </div>
+
+    </body>
+</html>
